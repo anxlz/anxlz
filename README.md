@@ -14,4 +14,4 @@
 
 ---
 
-<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
+<sub>Spending more time watching the code than building it 💡</sub>
