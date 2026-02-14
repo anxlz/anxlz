@@ -5,5 +5,6 @@
 </div>
 
 ---
-
+<div align="center">
 ![Metrics](https://raw.githubusercontent.com/enqlea/anxlz/main/github-metrics.svg)
+</div>
