@@ -1,3 +1,12 @@
+> *PS: I may not always push daily, but I'm always building and improving behind the scenes 🙂*
+> - [x] Discord automation bots with advanced slash commands & API integrations
+> - [x] Backend systems using NestJS, TypeScript & clean architecture
+> - [x] React + Tailwind UI experiments
+> - [x] Learning & building with Python and Machine Learning
+> - [ ] AI-powered automation project (private for now)
+>   - → Working actively on this (updated Feb 2026)
+> 
+> *Appreciate your support🤍*
 [<img align="left" width="390" alt="🤍" src="https://raw.githubusercontent.com/enqlea/anxlz/main/main.svg">](#)
 
 <div align="right">
