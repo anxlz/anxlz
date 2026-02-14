@@ -1,4 +1,4 @@
-> *PS: I may not always push daily, but I'm always building and improving behind the scenes 🙂*
+> *PS: I may not always push daily, but I'm always building and improving behind the scenes 🍩*
 > - [x] Discord automation bots with advanced slash commands & API integrations
 > - [x] Backend systems using NestJS, TypeScript & clean architecture
 > - [x] React + Tailwind UI experiments
