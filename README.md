@@ -6,5 +6,5 @@
 
 ---
 
-[<img align="right" width="390" alt="🦑" src="[https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p](https://raw.githubusercontent.com/enqlea/anxlz/main/github-metrics.svg)">](#)
+[<img align="right" width="390" alt="🦑" src="[https://raw.githubusercontent.com/enqlea/anxlz/main/github-metrics.svg](https://raw.githubusercontent.com/enqlea/anxlz/main/github-metrics.svg)">](#)
 
