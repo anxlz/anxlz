@@ -7,6 +7,8 @@
 >   - → Working actively on this (updated Feb 2026)
 > 
 > *Appreciate your support🤍*
+---
+
 [<img align="left" width="390" alt="🤍" src="https://raw.githubusercontent.com/enqlea/anxlz/main/main.svg">](#)
 
 <div align="right">
