@@ -1,11 +1,23 @@
-> *PS: I may not always push daily, but I'm always building and improving behind the scenes 🍩*
-> - [x] Discord automation bots with advanced slash commands & API integrations
-> - [x] Backend systems using NestJS, TypeScript & clean architecture
-> - [x] React + Tailwind UI experiments
-> - [x] Learning & building with Python and Machine Learning
-> - [ ] AI-powered automation project (private for now)
->   - → Working actively on this (updated Feb 2026)
+> Want to see what I'm building?
 > 
+> **Personal Projects:**
+> - [x] [`AdasaBlog`](https://github.com/anxlz/AdasaBlog) - Modern blog platform built with JavaScript
+> - [x] [`NutriPlan`](https://github.com/anxlz/NutriPlan) - Nutrition and meal planning application with personalized dietary recommendations
+> - [x] [`app`](https://github.com/anxlz/app) - Full-stack TypeScript application
+> - [x] [`QuizApp`](https://github.com/anxlz/QuizApp) - Interactive quiz application with dynamic question generation
+> - [x] [`SpaceApp`](https://github.com/anxlz/SpaceApp) - Space exploration themed web application
+> - [x] [`PersonalPortfolio`](https://github.com/anxlz/PersonalPortfolio) - Personal portfolio showcasing projects and skills
+> - [x] [`ContactHub`](https://github.com/anxlz/ContactHub) - Comprehensive contact management system
+> - [x] [`ForDinner`](https://github.com/anxlz/ForDinner) - Restaurant discovery and meal planning application
+> - [x] [`PTB`](https://github.com/anxlz/PTB) - Discord bot for analyzing team performance metrics (NestJS)
+> - [x] [`CRB`](https://github.com/anxlz/CRB) - Discord bot for team composition optimization and finding best setups (NestJS)
+> 
+> **Organization Projects (AnxiL-LTD):**
+> - [x] [`discord-store`](https://github.com/AnxiL-LTD/discord-store) - Progressive NestJS framework for building efficient and scalable Discord server-side applications
+> - [x] [`PTBP`](https://github.com/AnxiL-LTD/PTBP) - Advanced Discord bot for performance tracking and team analytics
+> - [ ] Building e-commerce ecosystem and database architecture
+> 
+> *Building with JavaScript, TypeScript, React, Next.js, NestJS, Discord.js, and modern web technologies!*
 > *Appreciate your support🤍*
 
 [<img width="390" align="left" alt="🤍" src="https://gist.githubusercontent.com/anxlz/2519971c30133f3aa0b1e27a09600fcc/raw/main.svg">](#)
