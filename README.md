@@ -16,6 +16,8 @@
 
 [<img width="390" align="right" alt="🤍" src="https://gist.githubusercontent.com/anxlz/2519971c30133f3aa0b1e27a09600fcc/raw/entertainment.svg">](#)
 
+[<img width="390" align="right" alt="🤍" src="https://raw.githubusercontent.com/enqlea/anxlz/main/assets/ffb065d770f6ba6c71e99c9461363b70.jpg">](#)
+
 <br clear="both">
 
 ---
