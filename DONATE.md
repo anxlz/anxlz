@@ -1,6 +1,6 @@
 # 💖 Support My Work
 
-Hey there! 👋 I'm **Ravz**, and I build open-source tools and projects to help developers and communities grow.  
+Hey there! 👋 I'm **AnxiL**, and I build open-source tools and projects to help developers and communities grow.  
 If you like what I’m doing and want to support ongoing development, here are a few ways you can help:
 
 ---
