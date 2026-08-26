@@ -22,7 +22,7 @@
 
 [<img width="390" align="left" alt="🤍" src="https://gist.githubusercontent.com/anxlz/2519971c30133f3aa0b1e27a09600fcc/raw/main.svg">](#)
 
-[<img width="390" align="right" alt="🤍" src="https://gist.github.com/anxlz/assets/ddaf698a-e602-497a-a7b2-52be3168efa4">](#)
+[<img width="390" align="right" alt="🤍" src="https://gist.github.com/anxlz/assets/ddaf698a-e602-497a-a7b2-52be3168efa4](https://gist.github.com/user-attachments/assets/ddaf698a-e602-497a-a7b2-52be3168efa4">](#)
 
 [<img width="390" align="right" alt="🤍" src="https://gist.githubusercontent.com/anxlz/2519971c30133f3aa0b1e27a09600fcc/raw/terminal.svg">](#)
 
