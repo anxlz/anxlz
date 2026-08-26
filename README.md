@@ -1,21 +1,43 @@
-> Want to see what I'm building?
+> Want to see what I have built?
 > 
-> **Personal Projects:**
-> - [x] [`AdasaBlog`](https://github.com/anxlz/AdasaBlog) - Modern blog platform built with JavaScript
-> - [x] [`NutriPlan`](https://github.com/anxlz/NutriPlan) - Nutrition and meal planning application with personalized dietary recommendations
-> - [x] [`app`](https://github.com/anxlz/app) - Full-stack TypeScript application
-> - [x] [`QuizApp`](https://github.com/anxlz/QuizApp) - Interactive quiz application with dynamic question generation
-> - [x] [`SpaceApp`](https://github.com/anxlz/SpaceApp) - Space exploration themed web application
-> - [x] [`PersonalPortfolio`](https://github.com/anxlz/PersonalPortfolio) - Personal portfolio showcasing projects and skills
-> - [x] [`ContactHub`](https://github.com/anxlz/ContactHub) - Comprehensive contact management system
-> - [x] [`ForDinner`](https://github.com/anxlz/ForDinner) - Restaurant discovery and meal planning application
-> - [x] [`PTB`](https://github.com/anxlz/PTB) - Discord bot for analyzing team performance metrics (NestJS)
-> - [x] [`CRB`](https://github.com/anxlz/CRB) - Discord bot for team composition optimization and finding best setups (NestJS)
+> **Full-Stack Projects:**
+> - [x] [`AnxietyEsport`](https://github.com/anxlz/AnxietyEsport)
+> - [x] [`EgyAnalyzer`](https://github.com/anxlz/EgyAnalyzer)
+> - [x] [`Portfolio`](https://github.com/anxlz/Portfolio)
+> 
+> **Frontend Projects:**
+> - [x] [`FreshCart`](https://github.com/anxlz/FreshCart)
+> - [x] [`SocialApp`](https://github.com/anxlz/SocialApp)
+> - [x] [`AdasaBlog`](https://github.com/anxlz/AdasaBlog)
+> - [x] [`WalletDashboard`](https://github.com/anxlz/WalletDashboard)
+> - [x] [`BrutalThoughts`](https://github.com/anxlz/BrutalThoughts)
+> - [x] [`ProfessionalDrone`](https://github.com/anxlz/ProfessionalDrone)
+> - [x] [`DreamHome`](https://github.com/anxlz/DreamHome)
+> - [x] [`GameingWeb`](https://github.com/anxlz/GameingWeb)
+> - [x] [`QuizApp`](https://github.com/anxlz/QuizApp)
+> - [x] [`SpaceApp`](https://github.com/anxlz/SpaceApp)
+> - [x] [`ContactHub`](https://github.com/anxlz/ContactHub)
+> - [x] [`ForDinner`](https://github.com/anxlz/ForDinner)
+> - [x] [`NutriPlan`](https://github.com/anxlz/NutriPlan)
+> - [x] [`RuralDepartment`](https://github.com/anxlz/RuralDepartment)
+> - [x] [`SmartAgriculture`](https://github.com/anxlz/SmartAgriculture)
+> 
+> **Backend Projects:**
+> - [x] [`NCRB`](https://github.com/anxlz/NCRB)
+> - [x] [`PTB`](https://github.com/anxlz/PTB)
+> - [x] [`UniverseMeta`](https://github.com/anxlz/UniverseMeta)
+> - [x] [`RON`](https://github.com/anxlz/RON)
+> - [x] [`DiscordMusicBot`](https://github.com/anxlz/DiscordMusicBot)
+> - [x] [`WEDownloaderWeb`](https://github.com/anxlz/WEDownloaderWeb)
+> - [x] [`anx`](https://github.com/anxlz/anx)
+> 
+> **Android Projects:**
+> - [x] [`StickerTransfer`](https://github.com/anxlz/StickerTransfer)
 > 
 > **Organization Projects (AnxiL-LTD):**
-> - [x] [`DiscordEcommerce`](https://github.com/AnxiL-LTD/DiscordEcommerce) - Progressive NestJS framework for building efficient and scalable Discord server-side applications
+> - [x] [`discord-store`](https://github.com/AnxiL-LTD/discord-store) - Progressive NestJS framework for building efficient and scalable Discord server-side applications
 > - [x] [`PTBP`](https://github.com/AnxiL-LTD/PTBP) - Advanced Discord bot for performance tracking and team analytics
-> - [ ] Building e-commerce ecosystem and database architecture
+> - [ ] Building e-commerce and social app ecosystem backend and database architecture
 > 
 > *Building with JavaScript, TypeScript, React, Next.js, NestJS, Discord.js, and modern web technologies!*
 > *Appreciate your support🤍*
