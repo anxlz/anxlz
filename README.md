@@ -1,11 +1,11 @@
-> Want to see what I have built?
+> Want to see what I am building?
 >
-> **Full-Stack Projects:**
+> **Full-Stack:**
 > - [ ] [`AnxietyEsport`](https://github.com/anxlz/AnxietyEsport) - Full esports management platform with authentication, role-based dashboards, match management, roster management, scoreboard OCR, applications, and meeting requests
 > - [x] [`EgyAnalyzer`](https://github.com/anxlz/EgyAnalyzer) - Bilingual Egyptian National ID analyzer that locally decodes structurally encoded information such as birth date, gender, governorate, age, and validity
 > - [x] [`Portfolio`](https://github.com/anxlz/Portfolio) - Personal portfolio website showcasing projects, skills, experience, and developer information
 >
-> **Frontend Projects:**
+> **Frontend:**
 > - [x] [`FreshCart`](https://github.com/anxlz/FreshCart) - Next.js web application built with the modern App Router and responsive frontend architecture
 > - [x] [`SocialApp`](https://github.com/anxlz/SocialApp) - React and Vite social application frontend with modern development tooling and fast refresh
 > - [x] [`AdasaBlog`](https://github.com/anxlz/AdasaBlog) - Modern blog platform for publishing and presenting web content
@@ -22,7 +22,7 @@
 > - [x] [`RuralDepartment`](https://github.com/anxlz/RuralDepartment) - Bilingual React/Vite landing page and achievements archive for the Rural Community Department at Ain Shams University
 > - [x] [`SmartAgriculture`](https://github.com/anxlz/SmartAgriculture) - Bilingual academic platform connecting modern agricultural science with rural communities across Egypt
 >
-> **Backend Projects:**
+> **Backend:**
 > - [x] [`NCRB`](https://github.com/anxlz/NCRB) - COD Mobile esports Discord bot for tournament rosters, loadouts, scrim scheduling, availability voting, booking calendars, and guild branding
 > - [x] [`PTB`](https://github.com/anxlz/PTB) - Discord gaming leaderboard bot with AI-powered scoreboard OCR, match statistics, player rankings, tiers, profiles, and automated role management
 > - [ ] [`UniverseMeta`](https://github.com/anxlz/UniverseMeta) - CODM league management Discord bot with teams, matches, tickets, applications, OCR result processing, leaderboards, and compliance management
@@ -31,7 +31,7 @@
 > - [x] [`WEDownloaderWeb`](https://github.com/anxlz/WEDownloaderWeb) - Browser-based Wallpaper Engine Workshop previewer for fetching Steam Workshop metadata, previewing items, and generating SteamCMD download commands
 > - [x] [`anx`](https://github.com/anxlz/anx) - Backend and automation project built around Discord and modern server-side tooling
 >
-> **Android Projects:**
+> **Android:**
 > - [x] [`StickerTransfer`](https://github.com/anxlz/StickerTransfer) - Android app that transfers Telegram sticker packs directly to WhatsApp without requiring a PC
 >
 > **Organization Projects (AnxiL-LTD):**
