@@ -34,4 +34,5 @@
 
 ---
 
-<sub>Spending more time watching the code than building it 💡</sub>
+<sub>“Be careful of wasting water even if you are at a flowing river”
+― Prophet Mohammad 🤍</sub>
