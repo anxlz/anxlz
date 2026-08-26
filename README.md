@@ -57,7 +57,7 @@
 > **Backend:**
 > - [x] [`NCRB`](https://github.com/anxlz/NCRB) - COD Mobile esports Discord bot for tournament rosters, loadouts, scrim scheduling, availability voting, booking calendars, and guild branding
 > - [x] [`PTB`](https://github.com/anxlz/PTB) - Discord gaming leaderboard bot with AI-powered scoreboard OCR, match statistics, player rankings, tiers, profiles, and automated role management
-> - [ ] [`UniverseMeta`](https://github.com/anxlz/UniverseMeta) - CODM league management Discord bot with teams, matches, tickets, applications, OCR result processing, leaderboards, and compliance management
+> - [ ] [`NUML`](https://github.com/anxlz/NUML) - CODM league management Discord bot with teams, matches, tickets, applications, OCR result processing, leaderboards, and compliance management
 > - [x] [`RON`](https://github.com/anxlz/RON) - Discord bot that assigns sequential member IDs, synchronizes `Name #ID` nicknames, and provides lookup, audit logging, and moderator approval tools
 > - [x] [`DiscordMusicBot`](https://github.com/anxlz/DiscordMusicBot) - Discord music bot for playing and managing music directly inside voice channels
 > - [x] [`WEDownloaderWeb`](https://github.com/anxlz/WEDownloaderWeb) - Browser-based Wallpaper Engine Workshop previewer for fetching Steam Workshop metadata, previewing items, and generating SteamCMD download commands
