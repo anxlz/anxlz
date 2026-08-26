@@ -27,7 +27,6 @@
 ![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-%23000000.svg?style=for-the-badge&logo=robot&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![DevOps](https://img.shields.io/badge/devops-%23000000.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/hostinger-%236735E5.svg?style=for-the-badge&logo=hostinger&logoColor=white)
 
 #
