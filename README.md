@@ -24,6 +24,8 @@
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-%23000000.svg?style=for-the-badge&logo=robot&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![DevOps](https://img.shields.io/badge/devops-%23000000.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 #
 > Want to see what I am building?
