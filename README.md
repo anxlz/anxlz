@@ -13,7 +13,7 @@
 > - [x] [`CRB`](https://github.com/anxlz/CRB) - Discord bot for team composition optimization and finding best setups (NestJS)
 > 
 > **Organization Projects (AnxiL-LTD):**
-> - [x] [`discord-store`](https://github.com/AnxiL-LTD/discord-store) - Progressive NestJS framework for building efficient and scalable Discord server-side applications
+> - [x] [`DiscordEcommerce`](https://github.com/AnxiL-LTD/DiscordEcommerce) - Progressive NestJS framework for building efficient and scalable Discord server-side applications
 > - [x] [`PTBP`](https://github.com/AnxiL-LTD/PTBP) - Advanced Discord bot for performance tracking and team analytics
 > - [ ] Building e-commerce ecosystem and database architecture
 > 
