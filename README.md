@@ -55,5 +55,5 @@
 
 ---
 
-<sub>“Be careful of wasting water even if you are at a flowing river”
-― Prophet Mohammad 🤍</sub>
+<sub>“Be careful of wasting water even if you are at a flowing river”
+― Prophet Mohammad peace be upon him 🤍</sub>
