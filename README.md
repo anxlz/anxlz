@@ -28,7 +28,7 @@
 
 [<img width="390" align="right" alt="🤍" src="https://gist.githubusercontent.com/anxlz/2519971c30133f3aa0b1e27a09600fcc/raw/entertainment.svg">](#)
 
-[<img width="390" height="180" align="right" alt="🤍" src="https://gist.githubusercontent.com/anxlz/469f9384db815bb2f8765151817c36b4/raw/grass.jpeg">](#)
+[<img width="390" height="160" align="right" alt="🤍" src="https://gist.githubusercontent.com/anxlz/469f9384db815bb2f8765151817c36b4/raw/grass.jpeg">](#)
 
 <br clear="both">
 
