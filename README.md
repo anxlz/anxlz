@@ -28,9 +28,7 @@
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![DevOps](https://img.shields.io/badge/devops-%23000000.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/hostinger-%236735E5.svg?style=for-the-badge&logo=hostinger&logoColor=white)
-
 #
-
 > Want to see what I am building?
 >
 > **Full-Stack:**
