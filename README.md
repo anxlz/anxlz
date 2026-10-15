@@ -19,6 +19,9 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Apache Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-%23000000.svg?style=for-the-badge&logo=probot&logoColor=white)
@@ -27,6 +30,7 @@
 ![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-%23000000.svg?style=for-the-badge&logo=robot&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![DevOps](https://img.shields.io/badge/devops-%23000000.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/hostinger-%236735E5.svg?style=for-the-badge&logo=hostinger&logoColor=white)
 #
 > Want to see what I am building?
